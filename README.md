@@ -92,8 +92,8 @@
           		file.names = filename, 
           		debug = TRUE)
 
- #*Если R-Studio ругается на xlsx, то идем по ссылке и скачиваем соответствующую версию java https://www.java.com/en/download/manual.jsp 
-#** доступные метрики и группировки - [можно посмотреть здесь](https://tech.yandex.ru/metrika/doc/api2/api_v1/attributes/visits/behavior-docpage/)
++ Если R-Studio ругается на xlsx, то идем по ссылке и скачиваем соответствующую версию java https://www.java.com/en/download/manual.jsp 
++ доступные метрики и группировки - [можно посмотреть здесь](https://tech.yandex.ru/metrika/doc/api2/api_v1/attributes/visits/behavior-docpage/)
 
 **3.2.**	Идем в свой аккаунт Gmail и даем разрешение на взаимодействие с «ненадежными приложениями»  (иначе письмо не отправится) 
 https://myaccount.google.com/u/4/security?hl=ru&pageId=none#connectedapps 
