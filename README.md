@@ -13,11 +13,13 @@
 **1.1.**	 Скачайте и установите [актуальную версию R](https://cran.r-project.org/bin/windows/base/), а также интегрированную среду разработки [R Studio](https://www.rstudio.com/products/rstudio/download/#download), в которой вам будет удобнее работать.
 
 
+
 **1.2.**	 В R-Studio создаем новый файл и вставляем код:
 
 	install.packages("xlsx")
 	install.packages("mailR")
 	install.packages("taskscheduleR")
+
 
 
 **1.3.**	 Чтобы запустить процесс установки пакетов, выделите весь текст и нажмите «Run»
